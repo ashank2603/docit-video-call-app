@@ -1,27 +1,11 @@
-# Video Meeting
+#DocIT Video Call Component
+Part of DocIT Health Management System
 
-Google Meet / Zoom clone in a few lines of code.
-
-Video Meeting is a video conference website that lets you stay in touch with all your friends.
-
-Developed with ReactJS, Node.js, SocketIO.
-
-![Website](https://i.imgur.com/HhZD01o.jpg)
-
-### Website
-Try Video Meeting here [video.sebastienbiollo.com](https://video.sebastienbiollo.com)
+## How to run:
+* Clone or Download the repository.
+* In the directory of this repository open a terminal or command prompt.
+* Run npm install in the terminal.
+* Run npm start and the app will run on localhost:4000.
 
 
-### Features
-- Is 100% free and open-source
-- No account needed
-- Unlimited users
-- Messaging chat and video streaming in real-time
-- Screen sharing to present documents, slides, and more
-- Everyting is peer-to-peer thanks to webrtc
-
-
-### Local setup
-
-1. `yarn install`
-2. `yarn dev`
+Deployed Link of the project: https://docit-videocall.herokuapp.com/
