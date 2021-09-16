@@ -1,4 +1,4 @@
-#DocIT Video Call Component
+# DocIT Video Call Component
 Part of DocIT Health Management System
 
 ## How to run:
