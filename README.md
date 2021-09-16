@@ -1,5 +1,5 @@
 # DocIT Video Call Component
-Part of DocIT Health Management System
+Part of DocIT Health Management System: https://github.com/Tejaswi-Kumar/DocIT
 
 ## How to run:
 * Clone or Download the repository.
