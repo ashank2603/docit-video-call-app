@@ -8,4 +8,4 @@ Part of DocIT Health Management System: https://github.com/Tejaswi-Kumar/DocIT
 * Run npm start and the app will run on localhost:4000.
 
 
-Deployed Link of the project: https://docit-videocall.herokuapp.com/
+
